@@ -5,6 +5,6 @@
 [Traduzir para Português](https://github.com/osvaldsoza/sb-kafka/blob/master/README-pt.md)
 
 # Project Summary 
-This a simple tutorial that teaches you how to integrate Kafka with Java and Spring.
+This a simple tutorial that teaches you how to integrate Kafka with Java and Spring.<br/>
 Two projects``(kafka-producer and kafka-consumer)`` were created.
 
