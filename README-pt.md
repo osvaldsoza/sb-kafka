@@ -5,4 +5,4 @@
 
 # Resumo do projeto
 Este é um simples tutorial, que ensina como integrar o Kafka com Java e SpringBoot.
-Dois projetos ``(kafka-producer and kafka-consumer)`` foram criados.
+<br/>Dois projetos ``(kafka-producer and kafka-consumer)`` foram criados.
